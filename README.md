@@ -11,7 +11,12 @@ So much for recently.
 And that is how old I am. Born in the USSR, too, the country that does not even have a flag emoji. 
 
 ![Breathless](https://media.giphy.com/media/12haiO303AAOgo/giphy.gif)
+
 *Figure 1: Jean-Paul Belmondo in À bout de souffle (Source: Godard, 1960, via GIPHY).*
+
+### 🎞️ Some Faves
+
+Table 1 below shows some of my favourite film directors and my favourite film by each of them.
 
 | Director | Favourite film | Year |
 | :--- | :--- | :---: |
@@ -20,4 +25,7 @@ And that is how old I am. Born in the USSR, too, the country that does not even 
 | Gaspar Noé | [Enter the Void](https://www.imdb.com/title/tt1191111/) | 2009 |
 | Andrey Zvyagintsev | [Loveless](https://www.imdb.com/title/tt6304162/) | 2017 |
 | Kirill Serebrennikov | [The Student](https://www.imdb.com/title/tt4874206/) | 2016 |
+**Table 1: Favourite film directors, selected films and their release years.**
 
+
+[$\color{#C8102E}{\Huge\text{THE GUIDES}}$](https://nulondon.instructure.com/courses/982/pages/citations-and-references-2)
