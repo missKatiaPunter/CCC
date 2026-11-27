@@ -25,7 +25,7 @@ Table 1 below shows some of my favourite film directors and my favourite film by
 | Gaspar Noé | [Enter the Void](https://www.imdb.com/title/tt1191111/) | 2009 |
 | Andrey Zvyagintsev | [Loveless](https://www.imdb.com/title/tt6304162/) | 2017 |
 | Kirill Serebrennikov | [The Student](https://www.imdb.com/title/tt4874206/) | 2016 |
+
 **Table 1: Favourite film directors, selected films and their release years.**
 
-
-[$\color{#C8102E}{\Huge\text{THE GUIDES}}$](https://nulondon.instructure.com/courses/982/pages/citations-and-references-2)
+$\href{https://nulondon.instructure.com/courses/982/pages/citations-and-references-2}{\color{#C8102E}{\Huge\text{THE GUIDES}}}$
