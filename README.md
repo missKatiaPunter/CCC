@@ -28,8 +28,4 @@ Table 1 below shows some of my favourite film directors and my favourite film by
 
 **Table 1: Favourite film directors, selected films and their release years.**
 
-<a href="https://nulondon.instructure.com/courses/982/pages/citations-and-references-2">
-
-$\color{#C8102E}{\Huge\text{THE GUIDES}}$
-
-</a>
+[![THE GUIDES](https://img.shields.io/badge/THE%20GUIDES-C8102E?style=for-the-badge)](https://nulondon.instructure.com/courses/982/pages/citations-and-references-2)
